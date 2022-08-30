@@ -1,0 +1,22 @@
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\50231\OneDrive\Escritorio\Universidad\8vo Semestre\Analisis de Sistemas Dos\Proyecto 2 Modulo II\EmpleadosPruebaRisko-main\EmpleadosPruebaRisko-main\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
