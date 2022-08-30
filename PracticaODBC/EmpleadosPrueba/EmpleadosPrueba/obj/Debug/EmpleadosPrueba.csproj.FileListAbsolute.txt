@@ -1,0 +1,22 @@
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\Developer\Documents\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+G:\Analisis 2\c#\no funcional\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
