@@ -1,0 +1,12 @@
+Primero creamos la base de datos utilizando xampp
+
+En odbc:
+Agregar>MySQL ODBC ANSI DRIVER
+Data Source Name: Prueba1
+TCP/IP: 127.0.0.1 port: 3306
+user: root
+y elegimos la base de datos controlempleados
+probamos la conección y avanzamos
+
+
+ABrimos visual y le damos Aplicacion de Windows Form(.NET Framework)
