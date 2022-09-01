@@ -1,0 +1,11 @@
+C:\Users\josue\source\repos\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\josue\source\repos\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\josue\source\repos\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\josue\source\repos\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
