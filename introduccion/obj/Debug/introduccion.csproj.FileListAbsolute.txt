@@ -1,0 +1,11 @@
+C:\SOFTWARES\C#\introduccion\bin\Debug\introduccion.exe.config
+C:\SOFTWARES\C#\introduccion\bin\Debug\introduccion.exe
+C:\SOFTWARES\C#\introduccion\bin\Debug\introduccion.pdb
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.csproj.AssemblyReference.cache
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.csproj.SuggestedBindingRedirects.cache
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.Form1.resources
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.Properties.Resources.resources
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.csproj.GenerateResource.cache
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.csproj.CoreCompileInputs.cache
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.exe
+C:\SOFTWARES\C#\introduccion\obj\Debug\introduccion.pdb
