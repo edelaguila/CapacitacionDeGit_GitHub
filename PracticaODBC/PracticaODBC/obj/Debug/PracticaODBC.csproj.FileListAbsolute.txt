@@ -1,0 +1,11 @@
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Form1.resources
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Form2.resources
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.exe.config
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.exe
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.pdb
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.exe
+C:\Users\Kevin\Desktop\Practica\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.pdb
