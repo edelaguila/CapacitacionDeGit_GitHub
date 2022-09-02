@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\Home\Desktop\Practica Conexion\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form2.resources
