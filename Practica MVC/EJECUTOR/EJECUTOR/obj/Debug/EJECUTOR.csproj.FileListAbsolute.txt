@@ -1,0 +1,16 @@
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\EJECUTOR.exe.config
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\EJECUTOR.exe
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\EJECUTOR.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_Vista.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_Vista.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\bin\Debug\Capa_modelo.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.exe
+C:\Users\marro\OneDrive\Desktop\Practica MVC\EJECUTOR\EJECUTOR\obj\Debug\EJECUTOR.pdb
