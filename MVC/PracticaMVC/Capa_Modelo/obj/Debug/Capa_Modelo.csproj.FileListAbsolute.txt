@@ -1,0 +1,6 @@
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.AssemblyReference.cache
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
