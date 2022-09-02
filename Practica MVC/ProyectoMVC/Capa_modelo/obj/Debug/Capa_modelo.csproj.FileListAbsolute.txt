@@ -1,0 +1,6 @@
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\bin\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\bin\Debug\Capa_modelo.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\obj\Debug\Capa_modelo.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\obj\Debug\Capa_modelo.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\obj\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_modelo\obj\Debug\Capa_modelo.pdb

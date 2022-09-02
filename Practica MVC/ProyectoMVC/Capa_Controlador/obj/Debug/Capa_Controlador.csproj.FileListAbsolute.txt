@@ -1,0 +1,9 @@
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\bin\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\bin\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\obj\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\obj\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\bin\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\bin\Debug\Capa_modelo.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CopyComplete
