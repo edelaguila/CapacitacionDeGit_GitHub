@@ -1,0 +1,18 @@
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Controlador.dll
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Controlador.pdb
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CoreCompileInputs.cache
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.dll
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.pdb
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.AssemblyReference.cache
+D:\UMG\8vo Semestre\Analisis sistemas 2\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Controlador.dll
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Controlador.pdb
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.dll
+C:\Users\50231\OneDrive\Escritorio\CapacitacionDeGit_GitHub-practicaMVC\MVC\PracticaMVC\Capa_Controlador\obj\Debug\Capa_Controlador.pdb
