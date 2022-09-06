@@ -1,0 +1,6 @@
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\bin\Debug\Modelo.dll
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\bin\Debug\Modelo.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\obj\Debug\Modelo.dll
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\PruebaMVC\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,16 @@
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\EjecucionPruebaMVC.exe.config
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\EjecucionPruebaMVC.exe
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\EjecucionPruebaMVC.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Vista.dll
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Vista.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.csprojAssemblyReference.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.Properties.Resources.resources
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.csproj.GenerateResource.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.csproj.CopyComplete
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.exe
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\obj\Debug\EjecucionPruebaMVC.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Controlador.dll
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Modelo.dll
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Controlador.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\EjecucionPruebaMVC\EjecucionPruebaMVC\bin\Debug\Modelo.pdb

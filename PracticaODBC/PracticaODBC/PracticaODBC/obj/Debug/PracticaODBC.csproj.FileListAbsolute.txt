@@ -1,0 +1,11 @@
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csprojAssemblyReference.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Properties.Resources.resources
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csproj.GenerateResource.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Form1.resources
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.Consulta.resources
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.exe.config
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.exe
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\bin\Debug\PracticaODBC.pdb
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.exe
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\Github\CapacitacionDeGit_GitHub\PracticaODBC\PracticaODBC\PracticaODBC\obj\Debug\PracticaODBC.pdb
