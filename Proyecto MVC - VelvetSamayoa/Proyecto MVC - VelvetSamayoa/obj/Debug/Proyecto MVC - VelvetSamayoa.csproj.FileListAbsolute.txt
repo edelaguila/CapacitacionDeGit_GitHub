@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\Proyecto MVC - VelvetSamayoa.exe.config
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\Proyecto MVC - VelvetSamayoa.exe
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\Proyecto MVC - VelvetSamayoa.pdb
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaVista.dll
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaControlador.dll
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaModelo.dll
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaVista.pdb
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaControlador.pdb
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\bin\Debug\CapaModelo.pdb
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto_MVC___VelvetSamayoa.Properties.Resources.resources
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.csproj.CopyComplete
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.exe
+C:\Users\Home\source\repos\Proyecto MVC - VelvetSamayoa\Proyecto MVC - VelvetSamayoa\obj\Debug\Proyecto MVC - VelvetSamayoa.pdb
