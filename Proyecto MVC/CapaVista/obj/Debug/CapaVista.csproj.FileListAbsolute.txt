@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaVista\bin\Debug\CapaModelo.pdb
