@@ -1,0 +1,12 @@
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.pdb
