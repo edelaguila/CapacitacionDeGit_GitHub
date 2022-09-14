@@ -1,0 +1,21 @@
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Diana\source\repos\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaVista\bin\Debug\CapaModelo.pdb

@@ -1,0 +1,15 @@
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Diana\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Diana\Desktop\PRACTICAC#\CapacitacionDeGit_GitHub\PRACTICA MVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb
