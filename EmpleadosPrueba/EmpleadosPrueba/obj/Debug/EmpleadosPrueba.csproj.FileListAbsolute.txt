@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Control.resources
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\franc\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
