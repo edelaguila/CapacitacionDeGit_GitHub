@@ -1,0 +1,11 @@
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\bin\Debug\CapacitacionODBC.exe.config
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\bin\Debug\CapacitacionODBC.exe
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\bin\Debug\CapacitacionODBC.pdb
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.csproj.AssemblyReference.cache
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.Properties.Resources.resources
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.csproj.GenerateResource.cache
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.csproj.CoreCompileInputs.cache
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.exe
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.pdb
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.Consulta.resources
+C:\Users\pcita\source\repos\CapacitacionODBC\CapacitacionODBC\obj\Debug\CapacitacionODBC.General.resources
