@@ -1,0 +1,16 @@
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaVista.dll
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\José Sierra\source\repos\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

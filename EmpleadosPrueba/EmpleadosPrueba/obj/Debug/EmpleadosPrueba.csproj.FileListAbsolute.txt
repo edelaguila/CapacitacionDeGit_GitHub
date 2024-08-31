@@ -1,0 +1,11 @@
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.txt_depto.resources
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\José Sierra\source\repos\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
