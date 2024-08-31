@@ -32,6 +32,9 @@ namespace CapaVista
 
         private void Btn_consulta_Click(object sender, EventArgs e)
         {
+            actualizardatagriew();
+
+
 
         }
     }
