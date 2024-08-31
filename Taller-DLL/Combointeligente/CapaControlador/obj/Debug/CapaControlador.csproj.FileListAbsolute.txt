@@ -1,0 +1,9 @@
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
