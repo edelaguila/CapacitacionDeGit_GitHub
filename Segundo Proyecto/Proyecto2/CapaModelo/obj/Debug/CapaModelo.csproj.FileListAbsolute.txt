@@ -1,0 +1,6 @@
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\emili\OneDrive\Escritorio\Analisis de sistemas ll\Segundo Proyecto\Proyecto2\CapaModelo\obj\Debug\CapaModelo.pdb
