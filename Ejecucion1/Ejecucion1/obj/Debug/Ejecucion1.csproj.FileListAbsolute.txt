@@ -1,0 +1,16 @@
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\Ejecucion1.exe.config
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\Ejecucion1.exe
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\Ejecucion1.pdb
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaVista.dll
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaControlador.dll
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaModelo.dll
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaVista.pdb
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaControlador.pdb
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\bin\Debug\CapaModelo.pdb
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.csproj.AssemblyReference.cache
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.Properties.Resources.resources
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.csproj.GenerateResource.cache
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.csproj.CoreCompileInputs.cache
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.csproj.CopyComplete
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.exe
+C:\Users\pcita\source\repos\Ejecucion1\Ejecucion1\obj\Debug\Ejecucion1.pdb
