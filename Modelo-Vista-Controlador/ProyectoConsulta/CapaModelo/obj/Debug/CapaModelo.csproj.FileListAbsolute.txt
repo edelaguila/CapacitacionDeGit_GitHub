@@ -1,0 +1,6 @@
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.pdb

@@ -1,0 +1,12 @@
+Capacitación ODBC
+
+https://youtu.be/N-K1zPfeHk8?si=K6jd3bJ2MDU5rxrx
+
+Modelo- Vista- Controlador
+
+https://drive.google.com/file/d/1cnY0EZDj7kq-zO9O6aZWc70l4_7jdPBq/view?usp=sharing
+
+
+Taller DLL
+
+https://drive.google.com/file/d/1Li-NoaYdBD1918HXX3FGvIeewU2oNnoj/view?usp=sharing

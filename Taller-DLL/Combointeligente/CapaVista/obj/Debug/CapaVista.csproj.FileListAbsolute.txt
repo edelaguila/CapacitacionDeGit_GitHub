@@ -1,0 +1,13 @@
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Taller-DLL\Combointeligente\CapaVista\bin\Debug\CapaModelo.pdb
