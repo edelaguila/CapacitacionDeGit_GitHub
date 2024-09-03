@@ -1,12 +1,15 @@
 Capacitación ODBC
 
+https://drive.google.com/file/d/1jYtORt5f9rHbt2N6f6SQp1awd4ZiKhKc/view?usp=sharing
+
+Capacitación Git y Git Hub
+
 https://youtu.be/N-K1zPfeHk8?si=K6jd3bJ2MDU5rxrx
 
 Modelo- Vista- Controlador
 
-https://drive.google.com/file/d/1cnY0EZDj7kq-zO9O6aZWc70l4_7jdPBq/view?usp=sharing
-
+https://drive.google.com/file/d/1s_v3SITNd5P921OZuQ44vGwPyJLr8qAZ/view?usp=sharing
 
 Taller DLL
 
-https://drive.google.com/file/d/1Li-NoaYdBD1918HXX3FGvIeewU2oNnoj/view?usp=sharing
+https://drive.google.com/file/d/1f8NsEJfREwCNyz0yaJz4uMMryRkBwgsn/view?usp=sharing
