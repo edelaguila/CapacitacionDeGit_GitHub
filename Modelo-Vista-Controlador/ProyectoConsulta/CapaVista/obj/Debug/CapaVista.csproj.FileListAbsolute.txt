@@ -1,0 +1,13 @@
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\José Sierra\source\repos\Capacitaciones\Modelo-Vista-Controlador\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.pdb
