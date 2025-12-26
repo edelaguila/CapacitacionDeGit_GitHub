@@ -1,0 +1,5 @@
+C:\Users\cesar\source\repos\ComboInteligente\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\cesar\source\repos\ComboInteligente\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\cesar\source\repos\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\cesar\source\repos\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.pdb

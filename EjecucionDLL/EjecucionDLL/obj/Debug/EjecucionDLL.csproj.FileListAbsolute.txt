@@ -1,0 +1,17 @@
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\EjecucionDLL.exe.config
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\EjecucionDLL.exe
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\EjecucionDLL.pdb
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaVista.dll
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaControlador.dll
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaModelo.dll
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaVista.pdb
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaControlador.pdb
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\bin\Debug\CapaModelo.pdb
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.Form1.resources
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.Properties.Resources.resources
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.csproj.CopyComplete
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.exe
+C:\Users\cesar\source\repos\EjecucionDLL\EjecucionDLL\obj\Debug\EjecucionDLL.pdb
